@@ -1,0 +1,66 @@
+bot_token = '6646889634:AAEU7beduw2Lzrpk_-sQdJ0iPIDyCk5Ag4E'
+chat_id = '5564404963'
+6646889634:AAEU7beduw2Lzrpk_-sQdJ0iPIDyCk5Ag4E
+ python -m venv myvenv                                                                                                                                                        1 ✘
+source myvenv/bin/activate
+
+
+{
+    "photos": [
+        "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg",
+        "https://images.unsplash.com/photo-1559703248-dcaaec9fab78?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603201101485-e232d22ad18b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ],
+    "description": "Unsplash, which is owned by Getty, is particularly great for finding really high-quality images: their team hand-selects every photo and, according to the site, “accept only the best.”",
+    "title": "Look at amazing photos",
+    "links": [
+        {
+            "title": "Telegram",
+            "link": "https://t.me/jaloldinovs"
+        },
+        {
+            "title": "Insagram",
+            "link": "https://www.instagram.com/jaloldinovuz"
+        }
+    ]
+}
+
+
+
+===========================================
+{
+    "media": [
+        {
+            "type": "photo",
+            "link": "https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg"
+        },
+        {
+            "type": "photo",
+            "link": "https://images.unsplash.com/photo-1559703248-dcaaec9fab78?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "type": "photo",
+            "link": "https://images.unsplash.com/photo-1603201101485-e232d22ad18b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "type": "video",
+            "link": "https://example.com/video.mp4"
+        }
+    ],
+    "description": "Unsplash, which is owned by Getty, is particularly great for finding really high-quality images: their team hand-selects every photo and, according to the site, “accept only the best.”",
+    "title": "Look at amazing photos",
+    "links": [
+        {
+            "title": "Telegram",
+            "link": "https://t.me/jaloldinovs"
+        },
+        {
+            "title": "Instagram",
+            "link": "https://www.instagram.com/jaloldinovuz"
+        },
+        {
+            "title": "Facebook",
+            "link": "https://www.facebook.com/jaloldinovuz"
+        }
+    ]
+}
